@@ -63,7 +63,7 @@ const Home = () => {
       </nav>
       <main className="main-content">
         <img src="../assets/logo.png" alt="Mind Clash Logo" className="logo" />
-        <h2>Welcome to Mind Clash</h2>
+        <h2>Welcome to Mind Clash - Your Ultimate Quiz Experience!</h2>
         <p>This is a game of your wits about different themes like Harry Potter, Batman, or Cricket. We offer a great experience for you guys. Disclaimer: once you get into it, you don't wanna get out of it.</p>
         <div className="game-modules">
           <button className="game-button">Join Game</button>
