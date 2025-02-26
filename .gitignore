@@ -1,4 +1,15 @@
-node_modules
+# Ignore node_modules
+node_modules/
+
+# Ignore build output
+build/
+dist/
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
 
 # Ignore audio files
 src/assets/*.mp3
